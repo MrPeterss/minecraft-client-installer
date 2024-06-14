@@ -9,3 +9,18 @@ This project utilizes C# and .NET Core to build a standalone EXE file to accompl
 
 ## The Future of this Project
 Hopefully, a full application that includes a proper UI will be available for the user to select different mods, minecraft versions, and other customizable features. Right now, the code is hardcoded to install a Minecraft Forge 1.18.2, a plane mod, and other various optimization mods.
+
+## License
+
+Distributed under the MIT License.
+
+## Contact
+
+### Peter Bidoshi
+
+- Website: [peterbidoshi.com](https://peterbidoshi.com)
+- GitHub: [MrPeterss](https://github.com/mrpeterss)
+- LinkedIn: [Peter Bidoshi](https://www.linkedin.com/in/bidoshi/)
+- Email: [pjb294@cornell.edu](mailto:pjb294@cornell.edu)
+
+Project Link: [https://github.com/MrPeterss/minecraft-client-installer](https://github.com/MrPeterss/minecraft-client-installer)
